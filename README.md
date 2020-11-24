@@ -1,6 +1,12 @@
 # Android-Game-Whac-A-Mole
 
-[![standard-readme compliant](https://img.shields.io/badge/Android%20App-Whac%20A%20Mole-brightgreen.svg?style=flat-square)](https://github.com/MatthewTsan/Android-Game-Whac-A-Mole/tree/main/WhacAMole)
+ [![](https://img.shields.io/badge/Language-Java-brightgreen.svg?style=flat-square)](https://github.com/MatthewTsan/Android-Game-Whac-A-Mole/tree/main/WhacAMole) 
+
+[![](https://img.shields.io/badge/Database-SQLite-brightgreen.svg?style=flat-square)](https://github.com/MatthewTsan/Android-Game-Whac-A-Mole/tree/main/WhacAMole) 
+
+ [![](https://img.shields.io/badge/Android%20App-blue.svg?style=flat-square)](https://github.com/MatthewTsan/Android-Game-Whac-A-Mole/tree/main/WhacAMole)[![](https://img.shields.io/badge/Android%20Studio-orange.svg?style=flat-square)](https://github.com/MatthewTsan/Android-Game-Whac-A-Mole/tree/main/WhacAMole)
+
+
 
 A GUI Android App Whack-A-Mole. Install the game and beat the Mole. Or you can select a photo as the Mole.
 
